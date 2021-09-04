@@ -5,6 +5,9 @@ body {
   display: flex;
   flex-direction: column; }
 
+img {
+  max-width: 50%; }
+
 a {
   color: #00b7ff; }
 

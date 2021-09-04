@@ -9,6 +9,10 @@ body {
   flex-direction: column;
 }
 
+img {
+  max-width: 50%;
+}
+
 a {
   color: $link-color;
 }
